@@ -1,0 +1,11 @@
+#audi{
+    color:blue; font-size: 20px; font-family: 'Times New Roman', Times, serif; font: optional;
+}
+
+.bmw{
+    color: brown; font-size: 20px; font-family: fantasy;
+}
+
+.opel{
+    color: cadetblue; font-size: 20px; font-family: monospace;
+}
